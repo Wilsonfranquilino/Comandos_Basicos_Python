@@ -1,5 +1,5 @@
 """
-Neste Repositório estão alguns exemplos de comandos Python necessário para uma análise de dados.
+Neste Repositório estão alguns exemplos de comandos básicos Python necessário para uma análise de dados.
 Abaixo uma pequena introdução sobre a linguagem.
 
 Introdução ao Python:
